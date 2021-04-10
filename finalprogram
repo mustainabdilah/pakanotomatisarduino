@@ -77,5 +77,6 @@ void KasihPakan(int jumlah){
     mekanik.write(150);
     delay(100);
     mekanik.write(0);
+    delay(100);
   }
 }
